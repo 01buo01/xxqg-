@@ -5,3 +5,4 @@
 # 下载连接二：https://gitee.com/djh010/xuexiqiangguo---xxqg/blob/master/%E5%AD%A6%E4%B9%A0%E5%87%8F%E5%8E%8B4+1pro_2.3.0_sign.apk
 
 ![微信图片_20230211163112](https://user-images.githubusercontent.com/108164947/218248701-1c9398db-f6ee-49d6-8af8-525549bf7a2b.jpg)
+# 不同手机运行速度、网络速度以及root、虚拟机等稳定性问题具体得分因人而异，具体自行研究探索！
